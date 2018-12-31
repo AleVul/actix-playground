@@ -1,0 +1,10 @@
+[package]
+name = "actor-life-cycle"
+version = "0.1.0"
+authors = ["Alexandru Vulpea <alexandru.vulpea@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+actix = "0.7"
+futures = "0.1"
+futures-preview = "0.2.2"

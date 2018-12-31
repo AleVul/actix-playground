@@ -1,0 +1,10 @@
+[workspace]
+members = [
+    "actor-life-cycle",
+    "actix-arbiter"
+]
+
+# [dependencies]
+# actix = "0.7"
+# futures = "0.1"
+# futures-preview = "0.2.2"
